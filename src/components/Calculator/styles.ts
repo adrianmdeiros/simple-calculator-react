@@ -1,14 +1,17 @@
 import styled from "styled-components";
 
 export const Container = styled.div`
-  display: flex;
+display: flex;
   align-items: center;
   justify-content: center;
   padding: 32px;
   background-color: ${props => props.theme.COLORS.BACKGROUND};
 `
 
-export const Content = styled.div`
+export const Calculadora = styled.div`
+  display: flex;
+  flex-direction: column;
+  padding: 28px;
   width: 360px;
   height: 500px;
   border-radius: 24px;
@@ -26,3 +29,32 @@ export const Content = styled.div`
   49px 46px 53px rgba(0, 0, 0, 0.06)
 ;
 `
+
+export const Display = styled.input`
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  border-radius: 14px;
+  background: ${props => props.theme.COLORS.BACKGROUND};
+  color: ${props => props.theme.COLORS.TEXT};
+  padding:  10px;
+  width: 100%;
+  height: 65px;
+  font-weight: 500;
+  font-family: Roboto, sans-serif;
+  font-size: 28px;
+`
+
+export const ButtonsContainer = styled.div`
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column; 
+`
+
+
+
+export const Row = styled.tr`
+  display: flex;
+  justify-content: space-between;
+`
+

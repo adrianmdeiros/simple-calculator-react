@@ -11,5 +11,5 @@ export const Container = styled.div`
   justify-content: space-between;
 `
 export const Title = styled.h1`
-  font-weight: ${props => props.theme.BOLD};
+  color: #DEEFE7;
 `
