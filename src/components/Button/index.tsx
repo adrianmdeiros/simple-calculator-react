@@ -8,9 +8,10 @@ export enum ButtonType {
 
 type Props = React.HTMLProps<HTMLButtonElement> & {
   buttonType?: ButtonType;
+  value?: number | string
 }
 
-const Button: React.FC<Props> = ({ buttonType, children, onClick }) => {
+const Button: React.FC<Props> = ({ buttonType, children, onClick, value }) => {
   const styles: React.CSSProperties = {};
 
   if (buttonType === ButtonType.Operation) {
@@ -20,7 +21,7 @@ const Button: React.FC<Props> = ({ buttonType, children, onClick }) => {
 
 
   return (
-    <Container style={styles} onClick={onClick}>
+    <Container style={styles} onClick={onClick} value={value}>
       {children}
     </Container>
   );
