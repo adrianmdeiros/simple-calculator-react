@@ -3,7 +3,7 @@
 This is a simple calculator maded using ViteJS Tool.    
 This is a Personal project for study purposes.
 
-## O que eu usei
+## What i used
   - ViteJS
   - React
   - TypeScript
