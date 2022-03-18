@@ -6,6 +6,9 @@
 This is a simple calculator maded using ViteJS Tool.    
 This is a Personal project for study purposes.
 
+## How to run it
+  <p>Clone this repo and run *yarn dev* or *vite*</p>
+
 ## What i used
   - ViteJS
   - React
@@ -16,6 +19,4 @@ This is a Personal project for study purposes.
       <img src='https://user-images.githubusercontent.com/57725998/159096377-ea281d16-1bbc-4605-8d76-87b8fd25f69d.png' width='700' />
   </div>
 
-## How to run it
-  <p>Clone this repo and run yarn dev or vite</p>
  
