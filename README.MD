@@ -3,8 +3,10 @@
 <p>This is a simple calculator maded using ViteJS Tool.</p>
 <p>This is a Personal project for study purposes.</p>
 
+This is a simple calculator maded using ViteJS Tool.    
+This is a Personal project for study purposes.
 
-## O que eu usei
+## What i used
   - ViteJS
   - React
   - TypeScript
@@ -16,3 +18,4 @@
 
 ## How to run it
   <p>Clone this repo and run yarn dev or vite</p>
+ 
