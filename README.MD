@@ -3,11 +3,9 @@
 <p>This is a simple calculator maded using ViteJS Tool.</p>
 <p>This is a Personal project for study purposes.</p>
 
-This is a simple calculator maded using ViteJS Tool.    
-This is a Personal project for study purposes.
 
 ## How to run it
-  <p>Clone this repo and run *yarn dev* or *vite*</p>
+  <p>Clone this repo and run `yarn-dev` or `vite`</p>
 
 ## What i used
   - ViteJS
