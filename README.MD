@@ -5,7 +5,7 @@
 
 
 ## How to run it
-  <p>Clone this repo and run `yarn-dev` or `vite`</p>
+  Clone this repo and run `yarn-dev` or `vite`
 
 ## What i used
   - ViteJS
