@@ -20,6 +20,7 @@ This project was developed using these technologies:
 - Vite
 - React
 - TypeScript
+- Styled-Components
 - Git e Github
 
 You can take a look by <a href="https://adrianmedeirosdev.github.io/" target="_blank">clicking here</a>.
