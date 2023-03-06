@@ -8,7 +8,7 @@ This project was developed using these technologies:
 - React
 - TypeScript
 - Styled-Components
-- Git e Github
+- Git and Github
 
 ### ⚖ License
 <a href="https://opensource.org/license/mit/" target="_blank">
